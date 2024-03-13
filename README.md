@@ -129,22 +129,22 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
-![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/2eceda29-817b-4c48-a810-c8da5e105c9d)
+![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/27e95ea9-5fa9-4d58-89cf-f534d32291d4)
 
 ### ii) Image Scaling
-![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/3012a0fe-65e3-478c-8124-2b252eb2e478)
+![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/897b3cce-147d-410d-a42d-8bceb1dc2a01)
 
 ### iii)Image shearing
-![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/41911601-3134-4220-bef2-b8e368c04f0e)
+![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/2f30f45b-6a12-44c7-941b-a216ef73fde7)
 
 ### iv)Image Reflection
-![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/7b863910-ef40-41b6-9ad8-e8d4c64229d3)
+![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/e956a3d2-6dc1-4af7-8f6c-7947c99ef3dc)
 
 ### v)Image Rotation
-![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/f0f1720c-ed7f-4995-8b37-5ef9cd28bfcc)
+![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/9579118d-d135-4162-99c1-2fa9faba315d)
 
 ### vi)Image Cropping
-![Uploading image.png…]()
+![image](https://github.com/gpavana/IMAGE-TRANSFORMATIONS/assets/118787343/a3c8318e-4f68-4928-b106-3c68c3a43613)
 
 ## Result: 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
